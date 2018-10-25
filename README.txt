@@ -3,6 +3,9 @@ Jason Parsons
 
 Super Snowball Adventure
 Created by Jason Parsons
+This game was created for an assignment in CSCI 4168 - Game Design and Development.
+We were given 3 weeks to learn Unity3D and create a 3D platformer with two levels.
+This assignment represents my first time using Unity3D.
 
 Readme file contents:
 
