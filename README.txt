@@ -1,5 +1,5 @@
 CSCI 4168 Assignment
-Jason Parsons (B00642710)
+Jason Parsons
 
 Super Snowball Adventure
 Created by Jason Parsons
